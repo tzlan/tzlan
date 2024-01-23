@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fullstack web and mobile dev, and what I like? Learning and challenging myself<br>
+I am a software engineer web and mobile dev, and what I like? Learning and challenging myself<br>
 
 
 ## 🌐 Socials:
